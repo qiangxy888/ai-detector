@@ -12,6 +12,11 @@ const posts = [
   { slug: 'best-ai-content-detectors-2026', title: 'Best AI Content Detectors in 2026: Accuracy Comparison', description: 'We tested the top AI detectors head-to-head. See which ones actually work and which fall short.', date: '2026-03-25', readTime: '10 min' },
   { slug: 'how-to-check-chatgpt-text', title: 'How to Check if Text Was Written by ChatGPT', description: 'Step-by-step guide to detecting AI-generated text using free and paid tools.', date: '2026-03-22', readTime: '7 min' },
   { slug: 'ai-detection-for-teachers', title: 'AI Detection for Teachers: A Complete Guide', description: 'Everything educators need to know about AI detection tools, policies, and best practices.', date: '2026-03-18', readTime: '12 min' },
+  { slug: 'how-to-avoid-ai-detection', title: 'How to Avoid AI Detection: Does It Actually Work?', description: 'We test 5 popular methods against 4 detectors and reveal the truth.', date: '2026-03-22', readTime: '9 min' },
+  { slug: 'ai-detector-false-positives', title: 'AI Detector False Positives: Why Human Text Gets Flagged', description: 'Understanding why AI detectors sometimes flag human-written text.', date: '2026-03-20', readTime: '8 min' },
+  { slug: 'ai-writing-checker-for-students', title: 'AI Writing Checker for Students: What You Need to Know', description: "A student's guide to AI detection tools and academic integrity.", date: '2026-03-18', readTime: '8 min' },
+  { slug: 'chatgpt-content-seo-impact', title: 'Is AI Content Good for SEO? What Google Actually Says', description: 'Does Google penalize AI content? Evidence from 2026 algorithm updates.', date: '2026-03-15', readTime: '10 min' },
+  { slug: 'best-ai-humanizer-tools', title: 'Best AI Humanizer Tools in 2026: Do They Actually Work?', description: 'We tested 6 AI humanizer tools. Here are the honest results.', date: '2026-03-12', readTime: '9 min' },
 ];
 
 export default function BlogPage() {
