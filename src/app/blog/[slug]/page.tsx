@@ -74,6 +74,7 @@ const posts: Record<string, { title: string; description: string; date: string; 
     description: 'Does Turnitin catch AI-generated text from ChatGPT, Claude, and Gemini? We tested it. Here are the real results.',
     date: '2026-03-29',
     readTime: '9 min',
+    keywords: ['turnitin detect chatgpt', 'turnitin AI detection', 'can turnitin detect AI', 'turnitin chatgpt'],
     content: `<p><strong>Short answer: Yes, Turnitin can detect ChatGPT — but it's not perfect.</strong> Since April 2023, Turnitin has included an AI writing detection feature alongside its plagiarism checker. In our testing, it correctly flagged 86% of pure ChatGPT-4 outputs, but accuracy drops significantly with edited or mixed content.</p>
 
 <h2>How Turnitin's AI Detection Works</h2>
@@ -128,6 +129,7 @@ const posts: Record<string, { title: string; description: string; date: string; 
     description: 'We tested 6 AI content detectors on 500 samples. See the real accuracy, false positive rates, and which tool to trust.',
     date: '2026-03-27',
     readTime: '11 min',
+    keywords: ['AI detection accuracy', 'AI content detector comparison', 'best AI detector 2026', 'AI detection false positive rate'],
     content: `<p><strong>AI detection tools are everywhere, but how accurate are they really?</strong> We tested 6 major AI content detectors on 500 text samples (250 human-written, 250 AI-generated) to find out.</p>
 
 <p><strong>Key finding:</strong> The best tools detect 90%+ of pure AI text, but all struggle with edited AI content and produce false positives at concerning rates.</p>
